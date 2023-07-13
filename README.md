@@ -53,7 +53,7 @@ The file `stats.csv` is included in this repository.
 
 # Accessing the logs
 The log files are quite large.  Zipped, they are over 300MB, which is over GitHub's limits.  No worries, though.  I have
-made them available on Google Drive [here]()
+made them available on Google Drive [here](https://drive.google.com/file/d/1T_EdX8Fee5mfVQwmG_EHOv2UHYAM7Kyh/view?usp=sharing)
 
 # Generating logs as a GitHub Action?
 This would be possible - but I fear I would have to deal with timeouts in GitHub Action runners.
