@@ -54,8 +54,13 @@ The file `stats.csv` is included in this repository.
 As can be seen above, {a,k,o} (the points) form a congruent group, as do {b,c,g,j,l,n} (the pairs adjacent to the points), as well as {d,f,m} (the outer midpoints), and {e,h,i} (the centroids).  
 <table>
 <thead><td>&nbsp;</td><th>points</th><th>point_adjacent_pairs</th><th>outer_midpoints</th><th>centroids</th></thead>
-<row><td><b>pct 1-peg</b></td><td>5.234%<td>5.052%</td><td>7.417%</td><td>1.124%</td></row>         
+<tr><td><b>pct 1-peg</b></td><td>5.234%<td>5.052%</td><td>7.417%</td><td>1.124%</td></tr>
+<tr><td><b>pct 2-peg</b></td><td>24.553%<td>23.929%</td><td>25.31%</td><td>15.007%</td></tr>
+<tr><td><b>pct 3-peg</b></td><td>45.65%<td>45.467%</td><td>44.413%</td><td>45.512%</td></tr>
 </table>
+
+So it can be seen that the best chance for success is to start with an initial board configuration that leaves
+an outer midpoint open.
 
 # Accessing the logs
 The log files are quite large.  Zipped, they are over 300MB, which is over GitHub's limits.  No worries, though.  I have
