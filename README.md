@@ -51,6 +51,12 @@ Here are the stats:
 
 The file `stats.csv` is included in this repository.
 
+As can be seen above, {a,k,o} (the points) form a congruent group, as do {b,c,g,j,l,n} (the pairs adjacent to the points), as well as {d,f,m} (the outer midpoints), and {e,h,i} (the centroids).  
+<table>
+<thead><td>&nbsp;</td><th>points</th><th>point_adjacent_pairs</th><th>outer_midpoints</th><th>centroids</th></thead>
+<row><td><b>pct 1-peg</b></td><td>5.234%<td>5.052%</td><td>7.417%</td><td>1.124%</td></row>         
+</table>
+
 # Accessing the logs
 The log files are quite large.  Zipped, they are over 300MB, which is over GitHub's limits.  No worries, though.  I have
 made them available on Google Drive [here](https://drive.google.com/file/d/1T_EdX8Fee5mfVQwmG_EHOv2UHYAM7Kyh/view?usp=sharing).
