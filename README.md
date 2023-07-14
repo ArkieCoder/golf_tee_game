@@ -1,5 +1,5 @@
 # golf_tee_game
-Play every possible golf tee game
+_Play every possible golf tee game_
 
 I got tired of getting called an "EG-NO-RA-MOOSE" at Cracker Barrel, so I wrote a Ruby program
 that would play every single golf tee game:
